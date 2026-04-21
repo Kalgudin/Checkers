@@ -58,6 +58,9 @@ class CheckersBoard:
         return self.board[row][col]
 
 
+b = CheckersBoard()
+b.display()
 
-board = CheckersBoard()
-board.display()
+
+
+
